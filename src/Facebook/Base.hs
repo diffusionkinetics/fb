@@ -48,7 +48,7 @@ import Facebook.Types
 import Facebook.Monad
 
 apiVersion :: Text
-apiVersion = "v2.11"
+apiVersion = "v2.12"
 
 -- | A plain 'H.Request' to a Facebook API.  Use this instead of
 -- 'def' when creating new 'H.Request'@s@ for Facebook.
